@@ -1,1 +1,8 @@
+# Pappers Folder
 /pappers
+
+# Virtual Enviroment
+venv
+
+# Vs code files
+.vscode
