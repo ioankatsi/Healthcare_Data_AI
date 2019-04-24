@@ -11,7 +11,7 @@ Hi! I'm your first Markdown file in **StackEdit**. If you want to learn about St
 _(Citation criteria)_
 
 -   **< 6 months** : _New Papers_ (by discussion)
--   **2019** : +60 citations 
+-   **2019** : +60 citations
 -   **2018** : +200 citations
 -   **2017** : +400 citations
 -   **2016** : +600 citations
@@ -22,11 +22,43 @@ _(Citation criteria)_
 
 -   [Network Analysis]()
 -   [Medical Recommendation Systems]
-- [More Papers from 2012] 
+- [More Papers from 2012]
 ## Contents
 
 -   [Network Analysis](https://github.com/ioankats93/Healthcare_Data_AI#network_analysis)
 -   [Medical Recommendation Systems](https://github.com/ioankats93/Healthcare_Data_AI#medical_recommendation_system)
+- [More Papers]
+
+
+_(Citation criteria)_
+
+-   **< 6 months** : _New Papers_ (by discussion)
+-   **2019** : +60 citations
+-   **2018** : +200 citations
+-   **2017** : +400 citations
+-   **2016** : +600 citations
+-   **2015** : +800 citations
+-   **~2012** : _Old Papers_ (by discussion)
+-
+_(Citation criteria)_
+
+-   **< 6 months** : _New Papers_ (by discussion)
+-   **2019** : +60 citations
+-   **2018** : +200 citations
+-   **2017** : +400 citations
+-   **2016** : +600 citations
+-   **2015** : +800 citations
+-   **~2012** : _Old Papers_ (by discussion)
+-
+_(Citation criteria)_
+
+-   **< 6 months** : _New Papers_ (by discussion)
+-   **2019** : +60 citations
+-   **2018** : +200 citations
+-   **2017** : +400 citations
+-   **2016** : +600 citations
+-   **2015** : +800 citations
+-   **~2012** : _Old Papers_ (by discussion)
 
 ### Network Analysis
 
@@ -34,4 +66,3 @@ _(Citation criteria)_
 
 ### Medical Recommendation Systems
 - **Reliable Medical Recommendation Systems with Patient Privacy** (2010), T. Ryan Hoens et al. [[pdf]](https://www.acsu.buffalo.edu/~mblanton/publications/tist13.pdf)
-
