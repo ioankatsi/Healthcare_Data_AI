@@ -39,26 +39,6 @@ _(Citation criteria)_
 -   **2016** : +600 citations
 -   **2015** : +800 citations
 -   **~2012** : _Old Papers_ (by discussion)
--
-_(Citation criteria)_
-
--   **< 6 months** : _New Papers_ (by discussion)
--   **2019** : +60 citations
--   **2018** : +200 citations
--   **2017** : +400 citations
--   **2016** : +600 citations
--   **2015** : +800 citations
--   **~2012** : _Old Papers_ (by discussion)
-
-_(Citation criteria)_
-
--   **< 6 months** : _New Papers_ (by discussion)
--   **2019** : +60 citations
--   **2018** : +200 citations
--   **2017** : +400 citations
--   **2016** : +600 citations
--   **2015** : +800 citations
--   **~2012** : _Old Papers_ (by discussion)
 
 ### Network Analysis
 
