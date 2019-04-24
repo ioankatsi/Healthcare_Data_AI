@@ -21,7 +21,7 @@ _(Citation criteria)_
 ## Contents
 
 -   [Network Analysis](https://github.com/ioankats93/Healthcare_Data_AI#network-analysis)
--   [Medical Recommendation Systems](https://github.com/ioankats93/Healthcare_Data_AI#medical-recommendation-system)
+-   [Medical Recommendation Systems](https://github.com/ioankats93/Healthcare_Data_AI#medical-recommendation-systems)
 - [More Papers]
 
 
