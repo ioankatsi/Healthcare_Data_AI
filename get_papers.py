@@ -16,12 +16,13 @@ __version__ = "0.0.1"
 __email__ = "ioankats93@gmail.com"
 
 MYDIR = os.path.dirname(__file__)
+
 directory = 'papers'
 if not os.path.exists(directory):
     os.makedirs(directory)
 
 papers = []
-n = 0
+
 with codecs.open('README.md', encoding="utf-8", errors='strict') as f:
     lines = f.read().split('\n')
     folder_heading, section_path = '', ''
