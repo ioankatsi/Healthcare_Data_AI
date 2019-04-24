@@ -25,8 +25,8 @@ _(Citation criteria)_
 - [More Papers from 2012]
 ## Contents
 
--   [Network Analysis](https://github.com/ioankats93/Healthcare_Data_AI#network_analysis)
--   [Medical Recommendation Systems](https://github.com/ioankats93/Healthcare_Data_AI#medical_recommendation_system)
+-   [Network Analysis](https://github.com/ioankats93/Healthcare_Data_AI#network-analysis)
+-   [Medical Recommendation Systems](https://github.com/ioankats93/Healthcare_Data_AI#medical-recommendation-system)
 - [More Papers]
 
 
@@ -49,7 +49,7 @@ _(Citation criteria)_
 -   **2016** : +600 citations
 -   **2015** : +800 citations
 -   **~2012** : _Old Papers_ (by discussion)
--
+
 _(Citation criteria)_
 
 -   **< 6 months** : _New Papers_ (by discussion)
