@@ -20,17 +20,6 @@ _(Citation criteria)_
 -   [Medical Recommendation Systems](https://github.com/ioankats93/Healthcare_Data_AI#medical-recommendation-systems)
 - [More Papers]
 
-
-_(Citation criteria)_
-
--   **< 6 months** : _New Papers_ (by discussion)
--   **2019** : +60 citations
--   **2018** : +200 citations
--   **2017** : +400 citations
--   **2016** : +600 citations
--   **2015** : +800 citations
--   **~2012** : _Old Papers_ (by discussion)
-
 ### Network Analysis
 
 -   **A Social Network Analysis Framework for Modeling Health Insurance Claims Data** (2018), Ana Paula Appe et al. [[pdf]](https://arxiv.org/pdf/1802.07116.pdf)
