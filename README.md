@@ -1,7 +1,3 @@
-# Welcome to Awesome Healthcare Data - Machine Learning Papers !
-
-Hi! I'm your first Markdown file in **StackEdit**. If you want to learn about StackEdit, you can read me. If you want to play with Markdown, you can edit me. Once you have finished with me, you can create new files by opening the **file explorer** on the left corner of the navigation bar.
-
 ## Awesome list criteria - Roadmap
 
 1.  A list of **top 100 Machine Learning and Data Analysis regarding Healthcare Data** published after 2012 is suggested.
