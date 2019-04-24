@@ -20,11 +20,6 @@ _(Citation criteria)_
 
 ## Contents
 
--   [Network Analysis]()
--   [Medical Recommendation Systems]
-- [More Papers from 2012]
-## Contents
-
 -   [Network Analysis](https://github.com/ioankats93/Healthcare_Data_AI#network-analysis)
 -   [Medical Recommendation Systems](https://github.com/ioankats93/Healthcare_Data_AI#medical-recommendation-system)
 - [More Papers]
@@ -46,3 +41,8 @@ _(Citation criteria)_
 
 ### Medical Recommendation Systems
 - **Reliable Medical Recommendation Systems with Patient Privacy** (2010), T. Ryan Hoens et al. [[pdf]](https://www.acsu.buffalo.edu/~mblanton/publications/tist13.pdf)
+
+
+## Acknowledgement
+
+Thank you for all your contributions. Please make sure to read the [contributing guide](https://github.com/ioankats93/Healthcare_Data_AI/blob/master/Contributing.md) before you make a pull request.
