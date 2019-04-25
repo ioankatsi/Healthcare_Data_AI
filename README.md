@@ -25,9 +25,9 @@ _(Citation criteria)_
 -   **A Social Network Analysis Framework for Modeling Health Insurance Claims Data** (2018), Ana Paula Appe et al. [[pdf]](https://arxiv.org/pdf/1802.07116.pdf)
 
 ### Medical Recommendation Systems
-- **Reliable Medical Recommendation Systems with Patient Privacy** (2010), T. Ryan Hoens et al. [[pdf]](https://www.acsu.buffalo.edu/~mblanton/publications/tist13.pdf) 
+-   **Reliable Medical Recommendation Systems with Patient Privacy** (2010), T. Ryan Hoens et al. [[pdf]](https://www.acsu.buffalo.edu/~mblanton/publications/tist13.pdf) 
 
-- **Preventing Shilling Attacks in Online RecommenderSystems** (2005), Paul-Alexandru Chirita et al. [[pdf]](https://dslab.epfl.ch/people/zamfir/widm2005.pdf)
+-   **Preventing Shilling Attacks in Online Recommender Systems** (2005), Paul-Alexandru Chirita et al. [[pdf]](https://dslab.epfl.ch/people/zamfir/widm2005.pdf)
 
 
 ## Acknowledgement
