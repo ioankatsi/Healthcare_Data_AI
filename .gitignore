@@ -6,3 +6,9 @@ venv
 
 # Vs code files
 .vscode
+
+# Test folders 
+tests/
+
+.env
+start.sh
