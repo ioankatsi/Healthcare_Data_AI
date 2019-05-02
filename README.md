@@ -26,6 +26,8 @@ _(Citation criteria)_
 
 ### Medical Recommendation Systems
 
+-   **A Hybrid Recommender System for Patient-DoctorMatchmaking in Primary Care** (2019), Qiwei Han et al. [[pdf]](https://arxiv.org/pdf/1808.03265.pdf)
+
 -   **Personalized Recommendation System for Medical Assistance using Hybrid Filtering** (2015), ArchanaB.Salunke et al. [[pdf]](https://pdfs.semanticscholar.org/9d92/2b27f7154ade5bf440cbe38ecd8f655d74af.pdf)
 
 -   **Reliable Medical Recommendation Systems with Patient Privacy** (2010), T. Ryan Hoens et al. [[pdf]](https://www.acsu.buffalo.edu/~mblanton/publications/tist13.pdf) 
