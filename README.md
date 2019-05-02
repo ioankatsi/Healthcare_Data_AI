@@ -18,6 +18,7 @@ _(Citation criteria)_
 
 -   [Network Analysis](https://github.com/ioankats93/Healthcare_Data_AI#network-analysis)
 -   [Medical Recommendation Systems](https://github.com/ioankats93/Healthcare_Data_AI#medical-recommendation-systems)
+-   [Smart Watch Data Process techniques](https://github.com/ioankats93/Healthcare_Data_AI#smart-watch-data-process-techniques)
 - [More Papers]
 
 ### Network Analysis
@@ -33,6 +34,9 @@ _(Citation criteria)_
 -   **Reliable Medical Recommendation Systems with Patient Privacy** (2010), T. Ryan Hoens et al. [[pdf]](https://www.acsu.buffalo.edu/~mblanton/publications/tist13.pdf) 
 
 -   **Preventing Shilling Attacks in Online Recommender Systems** (2005), Paul-Alexandru Chirita et al. [[pdf]](https://dslab.epfl.ch/people/zamfir/widm2005.pdf)
+
+### Smart Watch Data Process techniques
+-   **Smart Watch Actigraphy** (2016), Nicole Trachsler [[pdf]](https://pub.tik.ee.ethz.ch/students/2016-FS/BA-2016-02.pdf) 
 
 
 ## Acknowledgement
