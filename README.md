@@ -31,9 +31,12 @@ _(Citation criteria)_
 
 -   **Personalized Recommendation System for Medical Assistance using Hybrid Filtering** (2015), ArchanaB.Salunke et al. [[pdf]](https://pdfs.semanticscholar.org/9d92/2b27f7154ade5bf440cbe38ecd8f655d74af.pdf)
 
+- **From knowledge-based to data-driven modeling of fuzzyrule-based systems:  A critical reflection** (2017), Eyke Hüllermeier. [[pdf]](https://arxiv.org/pdf/1712.00646.pdf)
+
 -   **Reliable Medical Recommendation Systems with Patient Privacy** (2010), T. Ryan Hoens et al. [[pdf]](https://www.acsu.buffalo.edu/~mblanton/publications/tist13.pdf) 
 
 -   **Preventing Shilling Attacks in Online Recommender Systems** (2005), Paul-Alexandru Chirita et al. [[pdf]](https://dslab.epfl.ch/people/zamfir/widm2005.pdf)
+
 
 ### Smart Watch Data Process techniques
 -   **Smart Watch Actigraphy** (2016), Nicole Trachsler [[pdf]](https://pub.tik.ee.ethz.ch/students/2016-FS/BA-2016-02.pdf) 
