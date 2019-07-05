@@ -19,7 +19,8 @@ _(Citation criteria)_
 -   [Network Analysis](https://github.com/ioankats93/Healthcare_Data_AI#network-analysis)
 -   [Medical Recommendation Systems](https://github.com/ioankats93/Healthcare_Data_AI#medical-recommendation-systems)
 -   [Smart Watch Data Process techniques](https://github.com/ioankats93/Healthcare_Data_AI#smart-watch-data-process-techniques)
-- [More Papers]
+-   [Expert Systems in Medicine](https://github.com/ioankats93/Healthcare_Data_AI#expert-systems-in-medicine)
+-   [More Papers]
 
 ### Network Analysis
 
@@ -33,25 +34,25 @@ _(Citation criteria)_
 
 - **From knowledge-based to data-driven modeling of fuzzyrule-based systems:  A critical reflection** (2017), Eyke Hüllermeier. [[pdf]](https://arxiv.org/pdf/1712.00646.pdf)
 
--   **Reliable Medical Recommendation Systems with Patient Privacy** (2010), T. Ryan Hoens et al. [[pdf]](https://www.acsu.buffalo.edu/~mblanton/publications/tist13.pdf) 
+-   **Reliable Medical Recommendation Systems with Patient Privacy** (2010), T. Ryan Hoens et al. [[pdf]](https://www.acsu.buffalo.edu/~mblanton/publications/tist13.pdf)
 
 -   **Preventing Shilling Attacks in Online Recommender Systems** (2005), Paul-Alexandru Chirita et al. [[pdf]](https://dslab.epfl.ch/people/zamfir/widm2005.pdf)
 
 
 ### Smart Watch Data Process techniques
--   **Smart Watch Actigraphy** (2016), Nicole Trachsler [[pdf]](https://pub.tik.ee.ethz.ch/students/2016-FS/BA-2016-02.pdf) 
+-   **Smart Watch Actigraphy** (2016), Nicole Trachsler [[pdf]](https://pub.tik.ee.ethz.ch/students/2016-FS/BA-2016-02.pdf)
+
 
 ### Expert Systems in Medicine
-- **Expert Systens in Medicine: Academic Illusion or Real Power?**  (2000), K.S.Metaxiotis, J.E.Samouilidis [[pdf]](https://pdfs.semanticscholar.org/2431/18e183cc936b3629bdefd6e574f04c08f428.pdf)
-
-- **An Expert System in Medical Diagnosis** (2003), R.Raboanary et al. [[pdf]](https://inis.iaea.org/collection/NCLCollectionStore/_Public/45/083/45083390.pdf?r=1&r=1)
-
-- **Medical Expert Systems** (2008), C.Samarghitean, M.Vihinen [[pdf]](https://dabamirror.sci-hub.tw/4653/e59a2652d0ea4a73f2647fdd9f70f8de/vihinen2008.pdf)
+- **Implementation of XperMalTyph: An Expert System for Medical Diagnosis of the Complications of Malaria and Typhoid** (2013), S.A.Fatumo et al. [[pdf]](http://www.iosrjournals.org/iosr-jce/papers/Vol8-Issue5/E0853440.pdf)
 
 - **Expert Systems for Medical Applications** (2009), J.G.Holman, M.J.Cookson [[pdf]](https://cyber.sci-hub.tw/MTAuMzEwOS8wMzA5MTkwODcwOTAwODk4Ng==/holman1987.pdf)
 
-- **Implementation of XperMalTyph: An Expert System for Medical Diagnosis of the Complications of Malaria and Typhoid** (2013), S.A.Fatumo et al. [[pdf]](http://www.iosrjournals.org/iosr-jce/papers/Vol8-Issue5/E0853440.pdf)
+- **Medical Expert Systems** (2008), C.Samarghitean, M.Vihinen [[pdf]](https://dabamirror.sci-hub.tw/4653/e59a2652d0ea4a73f2647fdd9f70f8de/vihinen2008.pdf)
 
+- **An Expert System in Medical Diagnosis** (2003), R.Raboanary et al. [[pdf]](https://inis.iaea.org/collection/NCLCollectionStore/_Public/45/083/45083390.pdf?r=1&r=1)
+
+- **Expert Systens in Medicine: Academic Illusion or Real Power?**  (2000), K.S.Metaxiotis, J.E.Samouilidis [[pdf]](https://pdfs.semanticscholar.org/2431/18e183cc936b3629bdefd6e574f04c08f428.pdf)
 
 ## Acknowledgement
 
