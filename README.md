@@ -41,6 +41,17 @@ _(Citation criteria)_
 ### Smart Watch Data Process techniques
 -   **Smart Watch Actigraphy** (2016), Nicole Trachsler [[pdf]](https://pub.tik.ee.ethz.ch/students/2016-FS/BA-2016-02.pdf) 
 
+### Expert Systems in Medicine
+- **Expert Systens in Medicine: Academic Illusion or Real Power?**  (2000), K.S.Metaxiotis, J.E.Samouilidis [[pdf]](https://pdfs.semanticscholar.org/2431/18e183cc936b3629bdefd6e574f04c08f428.pdf)
+
+- **An Expert System in Medical Diagnosis** (2003), R.Raboanary et al. [[pdf]](https://inis.iaea.org/collection/NCLCollectionStore/_Public/45/083/45083390.pdf?r=1&r=1)
+
+- **Medical Expert Systems** (2008), C.Samarghitean, M.Vihinen [[pdf]](https://dabamirror.sci-hub.tw/4653/e59a2652d0ea4a73f2647fdd9f70f8de/vihinen2008.pdf)
+
+- **Expert Systems for Medical Applications** (2009), J.G.Holman, M.J.Cookson [[pdf]](https://cyber.sci-hub.tw/MTAuMzEwOS8wMzA5MTkwODcwOTAwODk4Ng==/holman1987.pdf)
+
+- **Implementation of XperMalTyph: An Expert System for Medical Diagnosis of the Complications of Malaria and Typhoid** (2013), S.A.Fatumo et al. [[pdf]](http://www.iosrjournals.org/iosr-jce/papers/Vol8-Issue5/E0853440.pdf)
+
 
 ## Acknowledgement
 
