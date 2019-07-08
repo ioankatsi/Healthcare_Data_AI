@@ -44,6 +44,8 @@ _(Citation criteria)_
 
 
 ### Expert Systems in Medicine
+- **Medical Expert Systems for Diagnosis of Various Diseases** (2014), J.Singla et al. [[pdf]](https://pdfs.semanticscholar.org/64c0/672703724bd32e04b94c10254f478213bf86.pdf)
+
 - **Implementation of XperMalTyph: An Expert System for Medical Diagnosis of the Complications of Malaria and Typhoid** (2013), S.A.Fatumo et al. [[pdf]](http://www.iosrjournals.org/iosr-jce/papers/Vol8-Issue5/E0853440.pdf)
 
 - **Expert Systems for Medical Applications** (2009), J.G.Holman, M.J.Cookson [[pdf]](https://cyber.sci-hub.tw/MTAuMzEwOS8wMzA5MTkwODcwOTAwODk4Ng==/holman1987.pdf)
@@ -53,6 +55,19 @@ _(Citation criteria)_
 - **An Expert System in Medical Diagnosis** (2003), R.Raboanary et al. [[pdf]](https://inis.iaea.org/collection/NCLCollectionStore/_Public/45/083/45083390.pdf?r=1&r=1)
 
 - **Expert Systens in Medicine: Academic Illusion or Real Power?**  (2000), K.S.Metaxiotis, J.E.Samouilidis [[pdf]](https://pdfs.semanticscholar.org/2431/18e183cc936b3629bdefd6e574f04c08f428.pdf)
+
+- **The Application of Expert Systems in the Clinincal Laboratory** (1989), P.Winkel [[pdf]](https://pdfs.semanticscholar.org/0bf9/e238884e88f27c6017c1df9f091c222c2aaf.pdf)
+
+### Rule-Based (Data Driven) Expert Systems in Medicine
+- **Rule Based (Forward Chaining/Data Driven) Expert System for Node Level Congestion Handling in Opportunistic Network** (2018), A.Sajid, K.Hussain [[pdf]](https://sci-hub.tw/https://doi.org/10.1007/s11036-018-1016-0)
+
+- **Rule Based Expert System for Medical Diagnosis-A Review** (2016), D.Mishra et al. [[pdf]](https://pdfs.semanticscholar.org/76a7/c9eec15178d75e085e2caad081b00048b7c8.pdf)
+
+- **Rule-Based Expert System for the Diagnosis of Memory Loss Diseases** (2014), K.R.Hole, V.S.Gulhane [[pdf]](http://www.ijiset.com/v1s3/IJISET_V1_I3_13.pdf)
+
+- **A proposed Data Driven Architecture for Cardiology Network Application** (2010), H.A.Grebla, C.O.Cenan [[pdf]](https://pdfs.semanticscholar.org/12de/bc416cd7c44152ef208b0fb6768b9efe5a94.pdf?_ga=2.268353038.1436405330.1562328067-1669554495.1562328067)
+
+- **A Review of Knowledge Based Systems in Medical Diagnosis** (2009), S.S.Gulavani, R.V.Kulkarni [[pdf]](https://pdfs.semanticscholar.org/87fd/07cbd9ac008b71e500f7703e0f03c8e3086c.pdf)
 
 ## Acknowledgement
 
