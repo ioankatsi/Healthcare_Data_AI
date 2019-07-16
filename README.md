@@ -19,6 +19,7 @@ _(Citation criteria)_
 -   [Network Analysis](https://github.com/ioankats93/Healthcare_Data_AI#network-analysis)
 -   [Medical Recommendation Systems](https://github.com/ioankats93/Healthcare_Data_AI#medical-recommendation-systems)
 -   [Smart Watch Data Process techniques](https://github.com/ioankats93/Healthcare_Data_AI#smart-watch-data-process-techniques)
+-   [ECG and Image Recognition](https://github.com/ioankats93/Healthcare_Data_AI#ecg-and-image-recognition)
 - [More Papers]
 
 ### Network Analysis
@@ -40,6 +41,15 @@ _(Citation criteria)_
 
 ### Smart Watch Data Process techniques
 -   **Smart Watch Actigraphy** (2016), Nicole Trachsler [[pdf]](https://pub.tik.ee.ethz.ch/students/2016-FS/BA-2016-02.pdf) 
+
+### ECG and Image Recognition
+- **Signal Extraction from Scans of Electrocardiograms** (2018), Julien Fontanarava et al. [[pdf]](http://www.nada.kth.se/~ann/exjobb/julien_fontanarava.pdf)
+
+- **Conversion of ECG Graph into DigitalFormat** (2018), G.Angelo Virgin et al. [[pdf]](https://acadpubl.eu/jsi/2018-118-16-17/articles/17/31.pdf)
+
+- **An Approach for ECG Feature Extraction and Classification of Cardiac Abnormalities** (2018), Sumathi S* et al. [[pdf]](https://www.longdom.org/open-access/an-approach-for-ecg-feature-extraction-and-classification-of-cardiacabnormalities-2329-6607-1000234.pdf)
+
+- **ECG Paper Records Digitization throughImage Processing Techniques** (2012), Deepak Kumar Garg* [[pdf]](https://pdfs.semanticscholar.org/ea92/918461d765728373966d133e58f61fb174b9.pdf)
 
 
 ## Acknowledgement
