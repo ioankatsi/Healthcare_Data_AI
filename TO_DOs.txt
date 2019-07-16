@@ -1,0 +1,10 @@
+TODO: 
+
+* Check IF File And Folders exist to download only that which does not exist. 
+
+* When error Print Terminal Output 
+
+* At the end print Aalytics on how many are succefully downloaded and a list with that 
+which are not downloaded. ||  e.g 15/20 [papper1, papper2, papper3, papper4 ....] 
+
+* Check why tika is so slow on the first papper
